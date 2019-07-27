@@ -1,5 +1,6 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="570" height="500" viewBox="0 0 570 500">
-  <g stroke-width="12.5" stroke="#FFF" transform="translate(0 30)">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <rect fill="#FFF" x="0" y="0" width="500" height="500"></rect>
+  <g stroke-width="12.5" stroke="#FFF" transform="scale(0.70) translate(75 130)">
     <polygon fill="#60B5CC" points="200,0 200,200 0,200" transform="translate(262 100)"></polygon>
     <polygon fill="#5A6378" points="0,0 200,200 0,200" transform="translate(120 300) rotate(-45)"></polygon>
     <polygon fill="#7FD13B" points="0,0 100,0 200,100 100,100" transform="translate(120 299) rotate(-45)"></polygon>
