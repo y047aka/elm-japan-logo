@@ -1,15 +1,15 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="736" height="500" viewBox="0 0 736 500">
-  <rect fill="#FFF" x="0" y="0" width="736" height="500"></rect>
-  <g stroke-width="12.5" stroke="#FFF" transform="scale(0.45) translate(80 330)">
-    <polygon fill="#60B5CC" points="200,0 200,200 0,200" transform="translate(262 100)"></polygon>
-    <polygon fill="#5A6378" points="0,0 200,200 0,200" transform="translate(120 300) rotate(-45)"></polygon>
-    <polygon fill="#7FD13B" points="0,0 100,0 200,100 100,100" transform="translate(120 299) rotate(-45)"></polygon>
-    <polygon fill="#F0AD00" points="0,0 100,0 0,100" transform="translate(120 300) rotate(45)"></polygon>
-    <polygon fill="#60B5CC" points="0,0 200,0 100,100" transform="translate(149 270) rotate(135)"></polygon>
-    <rect fill="#7FD13B" x="0" y="0" width="100" height="100" transform="translate(495 5) rotate(45)"></rect>
-    <polygon fill="#F0AD00" points="0,0, 100,0 0,100" transform="translate(395 300)"></polygon>
+  <rect fill="#1293D8" x="0" y="0" width="736" height="500"></rect>
+  <g stroke-width="12.5" fill="#FFF" stroke="#1293D8" transform="scale(0.45) translate(80 330)">
+    <polygon points="200,0 200,200 0,200" transform="translate(262 100)"></polygon>
+    <polygon points="0,0 200,200 0,200" transform="translate(120 300) rotate(-45)"></polygon>
+    <polygon points="0,0 100,0 200,100 100,100" transform="translate(120 299) rotate(-45)"></polygon>
+    <polygon points="0,0 100,0 0,100" transform="translate(120 300) rotate(45)"></polygon>
+    <polygon points="0,0 200,0 100,100" transform="translate(149 270) rotate(135)"></polygon>
+    <rect x="0" y="0" width="100" height="100" transform="translate(495 5) rotate(45)"></rect>
+    <polygon points="0,0, 100,0 0,100" transform="translate(395 300)"></polygon>
   </g>
-  <g font-size="34" font-family="source sans pro" font-weight="600" fill="#60B5CC">
+  <g font-size="34" font-family="'Source Sans Pro', sans-serif" font-weight="600" fill="#FFF">
     <text x="320" y="260" font-size="135">Elm-jp</text>
     <text x="328" y="325">Elm community in Japan</text>
   </g>
